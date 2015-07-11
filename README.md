@@ -1,6 +1,6 @@
-# Проект «pink»
+# Проект `Unknown`
 
-* Студент: [Алексей Симоненко](https://htmlacademy.ru/profile/id6).
+* Студент: `Unknown`.
 * Наставник: `Unknown`.
 
 ### Немного о себе
